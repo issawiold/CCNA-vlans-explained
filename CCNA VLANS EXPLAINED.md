@@ -26,4 +26,4 @@ if#ip add (ip address) (subnet mask)
 if#end
 #copy run star
 #reload
-
+-define the vlans on all the switches-
