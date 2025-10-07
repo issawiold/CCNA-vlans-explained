@@ -27,3 +27,6 @@ if#end
 #copy run star
 #reload
 -define the vlans on all the switches-
+For trouble shooting:-
+show vlan brief
+show int brief
